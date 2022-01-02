@@ -48,6 +48,11 @@ contract NFT is ERC721, AccessControl {
         emit Redeemed();
     }
 
+    ///@notice change the roylaty receiver.
+    function changeRoyaltiesReceiver(address royaltyReciever_) public onlyRole(DEFAULT_ADMIN_ROLE) { 
+        royaltyReciever = royaltyReciever_;
+    }
+
     ///@notice returns royalty amount and reciever
     ///@param _tokenId in our case allways 0
     ///@param _salePrice token price

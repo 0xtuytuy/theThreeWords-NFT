@@ -1,8 +1,11 @@
 export NAME="The Three Words"
 export SYMBOL="TTW"
-export MEDIA_URI="ipfs://QmSZ55BExPheGCcvfwhv2VzdZFR89PF7FZvCenP3kjZhm1"
-export TOKEN_URI="ipfs://QmZ9Zmbj9Jzeh4Kbdu5zFHUD8SvERkqU1ymHjnP3cJ1Djt"
-export PICTURE_MUSIC_I="ipfs://QmVSLPNLNLBt7RHqfZAh7UVjyNJRhMBt2A8HEqN8HYD4Pe"
-export PICTURE_MUSIC_LOVE="ipfs://QmeLTyzkxg7JPxXbcTGC147SL3MeUqXm5LdYxer7rgRnXX"
-export PICTURE_MUSIC_YOU="ipfs://Qmb7jVq4W3sRb9VuwgPNp2aiVhcZuUtjg3MjiTZXunoKNT"
-export RECIEVER="0x3f1Eae7D46d88F08fc2F8ed27FCb2AB183EB2d0E"
+
+export MEDIA_URI="ipfs://QmY1S6usnpZiw1yJBwVnY6HxYJaX63XozZQQMEN2uJgoNs/the_three_words_full.mp3"
+export TOKEN_URI="ipfs://QmVmDGuJR2o28CxaLDUm4UVEs7yGQAaGUw92v28xNbBA6J"
+
+export PICTURE_MUSIC_I="ipfs://QmY1S6usnpZiw1yJBwVnY6HxYJaX63XozZQQMEN2uJgoNs/music_sheet_I.png"
+export PICTURE_MUSIC_LOVE="ipfs://QmY1S6usnpZiw1yJBwVnY6HxYJaX63XozZQQMEN2uJgoNs/music_sheet_Love.png"
+export PICTURE_MUSIC_YOU="ipfs://QmY1S6usnpZiw1yJBwVnY6HxYJaX63XozZQQMEN2uJgoNs/music_sheet_You.png"
+
+export RECIEVER="0x1E57c887C0962a9034a9E672b237d3d592c3e865"
